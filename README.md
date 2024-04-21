@@ -1,4 +1,4 @@
-# AMBE3000
+# AMBE3000 Arduino Module in KiCad 8
 A PCB containing a DVSI AMBE-3000R (or AMBE-3003) Vocoders for use with WebSDRs/Audio transcoding.
 
 This board is based on the design by George Smart, M1GEO and Chris Smart, G8OCV.
